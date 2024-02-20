@@ -10,7 +10,7 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next JS" width="21px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" /></a>
+  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next JS" width="21px" src="https://slashdev.io/_next/image?url=https%3A%2F%2Fslashdevcms.nyc3.digitaloceanspaces.com%2Fcms%2Fuploads%2F2023%2F04%2F14175618%2FUntitled-design-33.png&w=640&q=70" /></a>
   <br>
   <br>
   
