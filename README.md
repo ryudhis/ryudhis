@@ -9,9 +9,11 @@ An independent Software Engineer who loves to create and share projects about we
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://www.typescriptlang.org/"><img align="left" alt="Typescript" title="Typescript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" /></a>
+  <a href="https://nodejs.org/"><img align="left" alt="Node.js" title="Node.js" width="21px" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" /></a>
+  <a href="https://nextjs.org/"><img align="left" alt="Express.js" title="Express.js" width="21px" src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next JS" width="21px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" /></a>
+  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next.js" width="21px" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" /></a>
+  <a href="https://nextjs.org/"><img align="left" alt="Nuxt" title="Nuxt" width="21px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" /></a>
   <br>
   <br>
   
