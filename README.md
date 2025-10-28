@@ -1,10 +1,6 @@
-### Hi! 👋 I'm Arya.
+## Hi! 👋 I'm Arya.
 
-An independent Software Engineer who loves to create and share projects about web technology! I've enjoyed JavaScript and make it the main language in creating a project.
-
-- 🌱 I’m currently learning about Back-End.
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: ryudhis.id@gmail.com
+### A passionate Full-Stack Engineer with a strong foundation in web development. My enthusiasm for technology drives me to keep learning and staying ahead of the curve.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
