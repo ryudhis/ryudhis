@@ -27,5 +27,5 @@ An independent Software Engineer who loves to create and share projects about we
 
 ### Reach me on
 - <a href="https://linkedin.com/in/ryudhis/">LinkedIn</a>
-- <a href="https://https://portfolio-ryudhis.vercel.app">Portfolio</a>
-- ryudhis.id@gmail.com
+- <a href="https://portfolio-ryudhis.vercel.app/">Portfolio</a>
+- <a href="mailto:ryudhis.id@gmail.com">Email</a>
