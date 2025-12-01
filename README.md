@@ -15,5 +15,5 @@
 
 ### Reach me on
 - <a href="https://linkedin.com/in/ryudhis/">LinkedIn</a>
-- <a href="https://portfolio-ryudhis.vercel.app/">Portfolio</a>
+- <a href="https://ryudhis.dev">Portfolio</a>
 - <a href="mailto:ryudhis.id@gmail.com">Email</a>
